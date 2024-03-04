@@ -1,5 +1,5 @@
 package com.springbootblog.config;
-
+// jus to check git
 import com.springbootblog.security.JwtAuthenticationEntryPoint;
 import com.springbootblog.security.JwtAuthenticationFilter;
 import org.springframework.context.annotation.Bean;
